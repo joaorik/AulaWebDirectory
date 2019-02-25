@@ -1,7 +1,7 @@
 <%-- 
     Document   : readFile
     Created on : 04/05/2018, 11:22:53
-    Author     : Joao Leocadio
+    Author     : Joao
 --%>
 
 <%@page import="java.io.File"%>

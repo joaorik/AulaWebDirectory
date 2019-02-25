@@ -1,7 +1,7 @@
 <%-- 
     Document   : index
     Created on : 04/05/2018, 09:35:57
-    Author     : Joao Leocadio
+    Author     : Joao
 --%>
 
 <%@page import="java.nio.file.Files"%>

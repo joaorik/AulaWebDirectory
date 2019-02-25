@@ -1,7 +1,7 @@
 <%-- 
     Document   : inFile
     Created on : 04/05/2018, 12:04:22
-    Author     : Joao Leocadio
+    Author     : Joao
 --%>
 
 <%@page import="java.io.IOException"%>

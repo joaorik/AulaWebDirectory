@@ -1,7 +1,7 @@
 <%-- 
     Document   : delFile
     Created on : 04/05/2018, 14:02:00
-    Author     : John Doe
+    Author     : Joao
 --%>
 
 <%@page import="java.io.File"%>
