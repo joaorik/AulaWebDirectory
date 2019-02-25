@@ -9,7 +9,6 @@
 <!-- in the project's Project Properties dialog box.-->
 <project name="AulaWebDirectory" default="default" basedir=".">
     <description>Trabalho solicitado pelo professora Simone, projeto AulaWebDirectory.</description>
-	<author>Joao Leocadio</author>
     <import file="nbproject/build-impl.xml"/>
     <!--
 
